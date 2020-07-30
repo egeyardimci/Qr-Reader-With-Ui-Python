@@ -9,3 +9,5 @@ Recomanded python version is 3.8 other versions can cause some problems.
 -pyautogui
 -numpy
 -pypng
+# How To Run
+You can use python to run Qr.py file or you can use Qr.exe file in /dist there is also a shortcut of it.
