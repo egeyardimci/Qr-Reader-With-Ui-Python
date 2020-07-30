@@ -1,7 +1,7 @@
 # Qr-Reader-With-Ui-Python
 This is a project that allows you to use qr scanner libraries with an ui you can scan or create any qr code on your screen with the ui easily.
 Recomanded python version is 3.8 other versions can cause some problems.
-# Libraries that i used:
+# Libraries That I Used:
 -PyQt5
 -cv2
 -pyzbar
@@ -10,4 +10,4 @@ Recomanded python version is 3.8 other versions can cause some problems.
 -numpy
 -pypng
 # How To Run
-You can use python to run Qr.py file or you can use Qr.exe file in /dist there is also a shortcut of it.
+You can use Qr.exe file at /dist or you can use Qr.py with python.
