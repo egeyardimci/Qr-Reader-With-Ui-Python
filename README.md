@@ -6,8 +6,8 @@ PyQt5,
 cv2,
 pyzbar,
 pyqrcodeng,
-pyautogui and
-numpy,
+pyautogui,
+numpy and
 pypng
 # How To Run
 You can use Qr.exe file at /dist or you can use Qr.py with python.
